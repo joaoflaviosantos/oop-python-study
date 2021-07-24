@@ -6,4 +6,4 @@ https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg
 
 #### 01 - Class and context (https://www.youtube.com/watch?v=CtSX3dWqWBQ)
 
-#### 02 - Private Encapsulatation (https://www.youtube.com/watch?v=RJWucpLGBng)
+#### 02 - Private Encapsulation (https://www.youtube.com/watch?v=RJWucpLGBng)
