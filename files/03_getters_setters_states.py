@@ -15,7 +15,6 @@ class Alarm:
             print("Incorrect value! '{}' isn't boolean value." .format(value))
 
 
-
 ################# TESTS ####################
 
 print("\n############## GETTER AND SETTERS TEST ################\n")
