@@ -1,6 +1,6 @@
 # Object Oriented Programming Python Study
 
-## [Programador Lhama Youtube Chanel](https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg)
+## [Programador Lhama Youtube Channel](https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg)
 
 #### Playlist videos:
 
