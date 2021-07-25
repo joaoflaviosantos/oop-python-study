@@ -4,7 +4,7 @@
 
 #### Playlist videos:
 
-- [00 - Playlist Intro](https://www.youtube.com/watch?v=WP5p4QEqLLQ)
+- [00 - Intro](https://www.youtube.com/watch?v=WP5p4QEqLLQ)
 
 - [01 - Class and Context](https://www.youtube.com/watch?v=CtSX3dWqWBQ)
 
@@ -15,3 +15,5 @@
 - [04 - SOLID (Single Responsibility)](https://www.youtube.com/watch?v=CM-JPix8hcI)
 
 - [05 - Class Variables and Methods](https://www.youtube.com/watch?v=i76UF0inUV0)
+
+- [06 - Static Methods](https://www.youtube.com/watch?v=T63J-vQi044)

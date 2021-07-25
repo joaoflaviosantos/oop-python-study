@@ -18,8 +18,6 @@ class MyClass:
     def change_class_static(cls) -> None:
         cls.static = "Programador Lhama Class Method"
 
-#------------------------------------------#
-
 class Store:
 
     tax = 1.03
