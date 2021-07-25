@@ -2,8 +2,6 @@
 
 ## [Programador Lhama Youtube Chanel](https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg)
 
-![Programador Lhama](https://yt3.ggpht.com/ytc/AKedOLTSGc5a_uf6KlHpazGhCmBG7fi-DSCP8pvf6ryr=s88-c-k-c0x00ffffff-no-rj)
-
 ### Playlist videos:
 
 - [00 - Playlist Intro](https://www.youtube.com/watch?v=WP5p4QEqLLQ)
