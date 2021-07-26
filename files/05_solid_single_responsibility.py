@@ -1,4 +1,4 @@
-############## ClASSES CODES #################
+############## CLASSES CODES #################
 
 class RegistrationSystem:   
 

@@ -1,4 +1,4 @@
-############## ClASSES CODES #################
+############## CLASSES CODES #################
 from typing import Type
 
 class Switch:

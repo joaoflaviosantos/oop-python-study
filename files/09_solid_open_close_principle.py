@@ -1,4 +1,4 @@
-############## ClASSES CODES #################
+############## CLASSES CODES #################
 
 class CircusClosedClass: # Class closed for changes and closed for extensions
 
