@@ -24,6 +24,8 @@
 
 - [10 - SOLID (Open / Closed Principle Exercise)](https://www.youtube.com/watch?v=IlSut-fcKvs)
 
+- [11 - Dependency Injection](https://www.youtube.com/watch?v=aZH5bRvRDyk)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
