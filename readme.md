@@ -22,4 +22,4 @@
 
 - [09 - SOLID (Open / Closed Principle)](https://www.youtube.com/watch?v=XVQC1b2yPYQ)
 
-- [10 - SOLID (Open / Closed Principle Exercice)](https://www.youtube.com/watch?v=IlSut-fcKvs)
+- [10 - SOLID (Open / Closed Principle Exercise)](https://www.youtube.com/watch?v=IlSut-fcKvs)
