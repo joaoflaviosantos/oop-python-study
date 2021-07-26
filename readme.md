@@ -19,3 +19,5 @@
 - [07 - Static Methods](https://www.youtube.com/watch?v=T63J-vQi044)
 
 - [08 - Class Association](https://www.youtube.com/watch?v=HAtr_Sk4xiY)
+
+- [09 - SOLID (Open / Closed Principle)](https://www.youtube.com/watch?v=XVQC1b2yPYQ)
