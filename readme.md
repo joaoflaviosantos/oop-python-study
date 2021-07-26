@@ -26,5 +26,5 @@
 
 #### Special thanks:
 
-@programadorLhama
+[@programadorLhama](https://github.com/programadorLhama)
 
