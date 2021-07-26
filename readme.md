@@ -1,4 +1,4 @@
-# Oriented Object Programming Python Study
+# Object Oriented Programming Python Study
 
 ### [Programador Lhama Youtube Channel](https://www.youtube.com/channel/UCBYJKJXaigXVTVsr2UmtWyg)
 
