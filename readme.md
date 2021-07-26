@@ -26,6 +26,8 @@
 
 - [11 - Dependency Injection](https://www.youtube.com/watch?v=aZH5bRvRDyk)
 
+- [12 - Bilateral Association](https://www.youtube.com/watch?v=OXu-Q2NoS-Y)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
