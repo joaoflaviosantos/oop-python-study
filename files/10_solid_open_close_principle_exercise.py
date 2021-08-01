@@ -1,7 +1,6 @@
 ############## CLASSES CODES #################
 
-from databases import PostgresDB, MysqlDB
-from databases import Repository
+from modules_10 import PostgresDB, MysqlDB, Repository
 
 ################# TESTS ####################
 

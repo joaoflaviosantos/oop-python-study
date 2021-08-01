@@ -1,7 +1,6 @@
 ############## CLASSES CODES #################
 
 from typing import Type
-
 class House:
 
     def __init__(self) -> None:

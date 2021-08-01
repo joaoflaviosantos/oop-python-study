@@ -1,6 +1,6 @@
 ############## CLASSES CODES #################
 
-from modules_10 import House, Person
+from modules_12 import House, Person
 
 
 ################## TESTS ####################
