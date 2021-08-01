@@ -32,6 +32,8 @@
 
 - [14 - Encapsulation in Inheritance](https://www.youtube.com/watch?v=Io28NuNnhhs)
 
+- [15 - SOLID (Liskov Substitution Principle)](https://www.youtube.com/watch?v=mv45FEbqGlY)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
