@@ -34,6 +34,8 @@
 
 - [15 - SOLID (Liskov Substitution Principle)](https://www.youtube.com/watch?v=mv45FEbqGlY)
 
+- [16 - Polymorphism](https://www.youtube.com/watch?v=8FF8wasg7KU)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
