@@ -30,6 +30,8 @@
 
 - [13 - Introduction to Inheritance](https://www.youtube.com/watch?v=EPBjsPSYIXw)
 
+- [14 - Encapsulation in Inheritance](https://www.youtube.com/watch?v=Io28NuNnhhs)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
