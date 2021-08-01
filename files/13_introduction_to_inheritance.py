@@ -30,7 +30,7 @@ class GrandDaugtherClass(DaughterClass):
 
 ################## TESTS ####################
 
-print('\n############## INHERITANCE TESTE ################\n')
+print('\n############## INHERITANCE TEST ################\n')
 
 ana = MotherClass('Elvira Street')
 clara = DaughterClass('Cake Street')
