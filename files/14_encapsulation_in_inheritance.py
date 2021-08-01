@@ -32,7 +32,7 @@ class Repository(DatabaseConn):
 
 ################## TESTS ####################
 
-print('\n############## INHERITANCE TESTE ################\n')
+print('\n############## INHERITANCE TEST ################\n')
 
 db = DatabaseConn()
 print(db.user)
