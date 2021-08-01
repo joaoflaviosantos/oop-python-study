@@ -28,6 +28,8 @@
 
 - [12 - Bilateral Association](https://www.youtube.com/watch?v=OXu-Q2NoS-Y)
 
+- [13 - Introduction to Inheritance](https://www.youtube.com/watch?v=EPBjsPSYIXw)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
