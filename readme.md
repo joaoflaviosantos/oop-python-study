@@ -38,6 +38,8 @@
 
 - [17 - Abstract Classes and Methods](https://www.youtube.com/watch?v=itchdl_0prw)
 
+- [18 - Interfaces](https://www.youtube.com/watch?v=_Dwp71rVCDE)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
