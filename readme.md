@@ -40,6 +40,8 @@
 
 - [18 - Interfaces](https://www.youtube.com/watch?v=_Dwp71rVCDE)
 
+- [19 - Interface Segregation Principle](https://www.youtube.com/watch?v=AjafIJw-OAg)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
