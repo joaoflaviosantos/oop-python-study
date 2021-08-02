@@ -36,6 +36,8 @@
 
 - [16 - Polymorphism](https://www.youtube.com/watch?v=8FF8wasg7KU)
 
+- [17 - Abstract Classes and Methods](https://www.youtube.com/watch?v=itchdl_0prw)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
