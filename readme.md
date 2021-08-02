@@ -40,7 +40,9 @@
 
 - [18 - Interfaces](https://www.youtube.com/watch?v=_Dwp71rVCDE)
 
-- [19 - Interface Segregation Principle](https://www.youtube.com/watch?v=AjafIJw-OAg)
+- [19 - SOLID (Interface Segregation Principle)](https://www.youtube.com/watch?v=AjafIJw-OAg)
+
+- [20 - SOLID (Dependency Inversion Principle)](https://www.youtube.com/watch?v=OHmTpOD_AdI)
 
 #### Special thanks:
 
