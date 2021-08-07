@@ -44,6 +44,8 @@
 
 - [20 - SOLID (Dependency Inversion Principle)](https://www.youtube.com/watch?v=OHmTpOD_AdI)
 
+- [21 - Class aggregation](https://www.youtube.com/watch?v=-vEke_Ssils)
+
 #### Special thanks:
 
 [@programadorLhama](https://github.com/programadorLhama)
